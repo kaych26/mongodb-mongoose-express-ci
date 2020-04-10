@@ -15,3 +15,4 @@ deploy:
     repo: kaych26/mongodb-mongoose-express-ci
 run:
     - "node seed/userProjects.js"
+    
